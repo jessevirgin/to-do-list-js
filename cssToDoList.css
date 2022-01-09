@@ -1,10 +1,10 @@
-/* Include the padding and border in an element's total width and height */
 * {
 box-sizing: border-box;  
 }
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 body {
   padding: 1% 2% 3% 1%;
-  font-family: 'Times New Roman', Times, serif;  
+  font-family: 'Roboto', sans-serif,'Times New Roman', Times, Georgia, serif;
   background:linear-gradient(to right, black, #27343d);  
 }
 
